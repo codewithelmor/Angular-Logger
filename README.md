@@ -1,5 +1,7 @@
 # AngularLogger
 
+![2023-11-17 15-47-19](https://github.com/codewithelmor/Angular-Logger/assets/44918452/d1544290-0bc9-4a2f-bedc-f5845c031ed0)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 
 ## Development server
